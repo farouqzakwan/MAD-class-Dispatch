@@ -1,3 +1,3 @@
 # MAD-class-Dispatch
 
-class assignment
+ongoing class assignment for this whole semester
